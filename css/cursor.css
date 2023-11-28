@@ -1,0 +1,7 @@
+body {
+	cursor: url(../medias/affiches/cursor.png), auto;
+}
+
+body:active {
+	cursor: url(../medias/affiches/cursor-2.png), auto;
+}
